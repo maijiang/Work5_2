@@ -78,5 +78,5 @@ MainActivity.java
     </manifest>
     
 结果截图：
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/maijiang/Work5_2/blob/master/5_1_2.PNG)
+![Image text](https://github.com/maijiang/Work5_2/blob/master/5_1_3.PNG)
